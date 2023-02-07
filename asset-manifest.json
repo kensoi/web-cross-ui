@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/WebCrossUI/static/css/main.5b58595e.css",
-    "main.js": "/WebCrossUI/static/js/main.a28d6d4d.js",
+    "main.css": "/WebCrossUI/static/css/main.5f4aff6d.css",
+    "main.js": "/WebCrossUI/static/js/main.9d05331d.js",
     "static/js/787.773bde27.chunk.js": "/WebCrossUI/static/js/787.773bde27.chunk.js",
     "index.html": "/WebCrossUI/index.html",
-    "main.5b58595e.css.map": "/WebCrossUI/static/css/main.5b58595e.css.map",
-    "main.a28d6d4d.js.map": "/WebCrossUI/static/js/main.a28d6d4d.js.map",
+    "main.5f4aff6d.css.map": "/WebCrossUI/static/css/main.5f4aff6d.css.map",
+    "main.9d05331d.js.map": "/WebCrossUI/static/js/main.9d05331d.js.map",
     "787.773bde27.chunk.js.map": "/WebCrossUI/static/js/787.773bde27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b58595e.css",
-    "static/js/main.a28d6d4d.js"
+    "static/css/main.5f4aff6d.css",
+    "static/js/main.9d05331d.js"
   ]
 }
