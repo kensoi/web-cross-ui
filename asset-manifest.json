@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/x-ui-app/static/css/main.1cf819ca.css",
-    "main.js": "/x-ui-app/static/js/main.dca5308a.js",
-    "static/js/787.3a34bc3d.chunk.js": "/x-ui-app/static/js/787.3a34bc3d.chunk.js",
-    "index.html": "/x-ui-app/index.html",
-    "main.1cf819ca.css.map": "/x-ui-app/static/css/main.1cf819ca.css.map",
-    "main.dca5308a.js.map": "/x-ui-app/static/js/main.dca5308a.js.map",
-    "787.3a34bc3d.chunk.js.map": "/x-ui-app/static/js/787.3a34bc3d.chunk.js.map"
+    "main.css": "/WebCrossUI/static/css/main.5b58595e.css",
+    "main.js": "/WebCrossUI/static/js/main.a28d6d4d.js",
+    "static/js/787.773bde27.chunk.js": "/WebCrossUI/static/js/787.773bde27.chunk.js",
+    "index.html": "/WebCrossUI/index.html",
+    "main.5b58595e.css.map": "/WebCrossUI/static/css/main.5b58595e.css.map",
+    "main.a28d6d4d.js.map": "/WebCrossUI/static/js/main.a28d6d4d.js.map",
+    "787.773bde27.chunk.js.map": "/WebCrossUI/static/js/787.773bde27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cf819ca.css",
-    "static/js/main.dca5308a.js"
+    "static/css/main.5b58595e.css",
+    "static/js/main.a28d6d4d.js"
   ]
 }
